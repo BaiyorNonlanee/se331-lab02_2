@@ -32,6 +32,18 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 1234567,
+      "category": "technology",
+      "title": "Tech Conference",
+      "description": "A conference for tech enthusiasts.",
+      "location": "Tech City",
+      "date": "October 15, 2022",
+      "time": "09.00",
+      "petsAllowed": false,
+      "organizer": "John Doe"
     }
+
   ]
 }
